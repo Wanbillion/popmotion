@@ -25,7 +25,7 @@
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-intersection": "^1.0.5",
-    "react-live": "^1.7.0",
+    "react-live": "^2.0.0",
     "react-pose": "^4.0.10",
     "react-pose-text": "^3.1.0",
     "react-syntax-highlighter": "^5.8.0",
